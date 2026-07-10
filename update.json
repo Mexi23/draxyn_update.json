@@ -1,8 +1,8 @@
 {
-  "disable_downloads":"1",
-  "click_games":"true",
+  "disable_downloads":"2",
+  "click_games":"false",
   
-  "version":"1",
+  "version":"2",
   
   "title":"UPDATE AVAILABLE",
   "discription":"A new update is available! Update now to enjoy the latest features, improvements and bug fixes",
