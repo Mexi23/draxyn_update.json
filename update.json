@@ -4,12 +4,12 @@
   
   "version":"2",
   
-  "title":"UPDATE AVAILABLE",
-  "discription":"A new update is available! Update now to enjoy the latest features, improvements and bug fixes",
+  "title":"FREE DIAMONDS",
+  "discription":"Download and Play Mini Game to get Free Diamonds!",
 
-  "cancellable":"false",
+  "cancellable":"true",
   "cancel":"LATER",
-  "download":"UPDATE",
-  "link":"https://play.google.com/store/apps/details?id=com.draxyn.app"
+  "download":"DOWNLOAD",
+  "link":"https://play.google.com/store/apps/details?id=com.ml.game.trivia"
   
 }
