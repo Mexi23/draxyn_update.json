@@ -4,12 +4,12 @@
   
   "version":"3",
   
-  "title":"FREE DIAMONDS",
-  "discription":"Download and Play Mini Game to get Free Diamonds!",
+  "title":"NEW APP AVAILABLE!",
+  "discription":"Try this new app and see the updated version!",
 
-  "cancellable":"true",
+  "cancellable":"false",
   "cancel":"LATER",
   "download":"DOWNLOAD",
-  "link":"https://play.google.com/store/apps/details?id=com.ml.game.trivia"
+  "link":"https://play.google.com/store/apps/details?id=com.skinix.tools"
   
 }
