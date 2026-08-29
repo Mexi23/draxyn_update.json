@@ -2,12 +2,12 @@
   "disable_downloads":"2",
   "click_games":"false",
   
-  "version":"3",
+  "version":"2",
   
   "title":"NEW APP AVAILABLE!",
   "discription":"Try this new app and see the updated version!",
 
-  "cancellable":"false",
+  "cancellable":"true",
   "cancel":"LATER",
   "download":"DOWNLOAD",
   "link":"https://play.google.com/store/apps/details?id=com.skinix.tools"
